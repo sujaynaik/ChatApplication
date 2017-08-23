@@ -1,4 +1,4 @@
-package com.example.sujaynaik.myapplication.util;
+package com.sujay.chatapplication.util;
 
 /**
  * Created by sujaynaik on 5/23/17.
