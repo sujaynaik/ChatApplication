@@ -24,6 +24,8 @@
     <color name="translucent_dark_black">#7f000000</color>
     <color name="translucent_colorAccent">#b1505050</color>
     <color name="translucent_red_grey">#b1e16060</color>
+    <color name="red">#F15358</color>
+    
 
     <!-- GRAY SHADES -->
     <color name="gray_i">#f0f0f0</color>
