@@ -1,4 +1,4 @@
-package com.example.sujaynaik.myapplication.util;
+package com.sujay.chatapplication.util;
 
 import android.Manifest;
 import android.app.Activity;
