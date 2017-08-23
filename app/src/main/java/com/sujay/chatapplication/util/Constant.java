@@ -1,4 +1,4 @@
-package com.example.sujaynaik.myapplication.util;
+package com.sujay.chatapplication.util;
 
 /**
  * Created by sujaynaik on 5/23/17.
@@ -8,7 +8,7 @@ public class Constant {
     /***
      * COMMON
      */
-    public static final String APP_NAME = "sujayapp";
+    public static final String APP_NAME = "chatapp";
     public static final String DB_NAME = "db_my_application";
     public static final int DB_VERSION = 1;
     public static final boolean DEBUG_ANIM = true;
