@@ -1,4 +1,4 @@
-package com.example.sujaynaik.myapplication.util;
+package com.sujay.chatapplication.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;
