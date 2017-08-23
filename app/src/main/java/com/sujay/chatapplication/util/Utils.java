@@ -47,7 +47,7 @@ import android.widget.TextView;
 import android.widget.TimePicker;
 import android.widget.Toast;
 
-import com.example.sujaynaik.myapplication.R;
+import com.sujay.chatapplication.R;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
